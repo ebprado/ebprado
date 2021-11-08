@@ -1,6 +1,6 @@
 ### Hey, hey. 👋
 
-I'm a PhD student in Statistics in the Hamilton Institute, Maynooth University, Ireland. I work on extension to Bayesian Additive Regression trees under the supervision of Professor Andrew Parnell and co-supervision of Dr. Rafael Moral.
+My name is Estevão Prado. I'm a PhD student in Statistics in the Hamilton Institute, Maynooth University, Ireland. I work on extension to Bayesian Additive Regression trees under the supervision of Professor Andrew Parnell and co-supervision of Dr. Rafael Moral.
 
 I got my bachelor's degree in Statistics at Federal University of Paran\'a (2010/2013) and a Research MSc in Statistics (2014/16) at Federal University of Minas Gerais. During the masters, I worked with implementation and comparison of different adaptive and non-adaptive MCMC methods to a specific setting of GLMM (see the text here (in portuguese)).
 
