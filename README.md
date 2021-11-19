@@ -1,4 +1,4 @@
-### Hey, hey. 👋
+### Hey 👋
 
 I'm Estevão Prado and I'm a Ph.D. student in Statistics at Hamilton Institute, Maynooth University, Ireland. Since 2018, I have been working on extensions to Bayesian Additive Regression trees (BART) under the supervision of professors Andrew Parnell and Rafael Moral.
 
