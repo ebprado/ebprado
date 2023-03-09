@@ -1,10 +1,10 @@
 ### Hey 👋
 
-I'm Estevão Prado and I'm a Ph.D. student in Statistics at Hamilton Institute, Maynooth University, Ireland. Since 2018, I have been working on novel probabilistic/Bayesian machine learning algorithms under the supervision of professors Andrew Parnell and Rafael Moral.
+I'm Estevão Prado and I'm a senior research associate in statistical machine learning at Lancaster University under a fellowship partnered with The Alan Turing Institute. I work with Professor Christopher Nemeth on the development of novel scalable Markov Chain Monte Carlo (MCMC) methods for large datasets.
 
-I got my BSc in Statistics from UFPR (2010-13) and an MSc in Statistics (2014-16) from UFMG. During the masters, I worked with implementation and comparison of different adaptive and non-adaptive MCMC methods to a specific setting of a GLMM; see the text [here](https://repositorio.ufmg.br/bitstream/1843/BUBD-A9ZGXY/1/principal.pdf) (in portuguese).
+I completed my PhD in Statistics at Maynooth University (Ireland) under the supervision of Professor Andrew Parnell and Dr. Rafael Moral where I worked on extensions to probabilistic tree-based machine learning algorithms. I hold an MRes in Statistics from the Federal University of Minas Gerais (Brazil) and a first-class honours Bsc in Statistics from the Federal University of Paraná (Brazil).
 
-My main research interests lie in tree-based methods, Bayesian non-parametric regression, and computational statistics. Besides research, I spent 3.5 years in the financial sector working on credit modelling. 
+My main research interests lie in tree-based methods, Bayesian non-parametric regression, MCMC and computational statistics. Besides academia, I worked as a data scientist for 3.5 years at Bradesco and HSBC banks with statistical modelling for credit purposes. My programming background involves advanced knowledge of R (+10 yr), SAS (+5 yr), SQL (+5 yr) and, more recently, an intermediate level of Python.
 
 <!--
 bla bla bla
