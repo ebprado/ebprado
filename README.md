@@ -6,4 +6,4 @@ Prior to my current position, I was a senior research associate (i.e., a post-do
 
 I completed my [PhD](https://mural.maynoothuniversity.ie/17285/1/Thesis_Estevao_Batista.pdf) in Statistics at Maynooth University, Ireland, under the supervision of Professor [Andrew Parnell](https://scholar.google.com/citations?user=ZlmTSR4AAAAJ&hl=en) and Dr. [Rafael Moral](https://rafamoral.github.io/index.html) where I worked on extensions to probabilistic tree-based machine learning algorithms (i.e., BART). I hold an [MRes](https://repositorio.ufmg.br/bitstream/1843/BUBD-A9ZGXY/1/principal.pdf) in Statistics from the Federal University of Minas Gerais (Brazil) and a first-class honours Bsc in Statistics from the Federal University of Paraná (Brazil).
 
-See my [Google Scholar](https://scholar.google.com/citations?user=GnOyV34AAAAJ&hl=en&oi=ao) profile for all my publications.
+See my [Google Scholar](https://scholar.google.com/citations?user=GnOyV34AAAAJ&hl=en&oi=ao) profile for my publications.
