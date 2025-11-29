@@ -1,6 +1,6 @@
 ### Hey 👋
 
-My name is Estevão Prado and I'm a senior data scientist in the department of Data Intelligence at Bradesco bank, Brazil. I develop credit risk models which automate/scale credit decisions and mitigate risk using statistics and machine learning. My programming background involves advanced knowledge of R (e.g., dplyr, ggplot), SAS, SQL and Python (e.g., PySpark, pandas).
+My name is Estevão Prado and I'm a principal data scientist in the department of Data Intelligence at Bradesco bank, Brazil. I develop credit risk models which automate/scale credit decisions and mitigate risk using statistics and machine learning. My programming background involves advanced knowledge of R (e.g., dplyr, ggplot), SAS, SQL and Python (e.g., PySpark, pandas).
 
 Prior to my current position, I was a senior research associate (i.e., a post-doctoral) in statistical machine learning at Lancaster University, UK, under a fellowship partnered with The Alan Turing Institute. I worked with Professors [Christopher Nemeth](https://chris-nemeth.github.io/) and [Chris Sherlock](https://scholar.google.com/citations?user=X-5SzgsAAAAJ&hl=pt-BR&oi=ao) on the development of novel scalable Markov Chain Monte Carlo (MCMC) methods for large datasets.
 
